@@ -1,0 +1,8 @@
+pyrofork
+tgcrypto
+Pillow
+google-generativeai
+flask
+gunicorn
+aiohttp
+pymongo[srv]
